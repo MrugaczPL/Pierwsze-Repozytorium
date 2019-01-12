@@ -1,0 +1,34 @@
+#container {
+    background: blue;
+    margin: auto;
+    width: 900px;
+    height: 1000px;
+    text-align: center;
+}
+#header {
+    background: rgb(21, 250, 0);
+    height: 200px;
+    width: 900px;
+}
+#navigation{
+    background: red;
+    height: 20px;
+    width: 900px;
+}
+#menu{
+    background: rgb(255, 21, 255);
+    float: left;
+    height: 600px;
+    width: 200px;
+}
+#content{
+    background: rgb(196, 196, 196);
+    float: right;
+    height: 600px;
+    width: 700px;
+}
+#footer{
+    background: blue;
+    height: 180px;
+    width: 900px;
+}
